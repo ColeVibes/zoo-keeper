@@ -118,7 +118,7 @@
       ],
       "id": "11"
     },
-      {
+    {
       "name": "Mark",
       "species": "turtle",
       "diet": "omnivore",
@@ -126,6 +126,17 @@
         "jolly"
       ],
       "id": "12"
+    },
+    {
+      "name": "Bonnie",
+      "species": "moose",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "tany",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
